@@ -27,3 +27,8 @@ This project focuses on developing an AI-powered chatbot using LLM-based Generat
 -python -m venv venv
 -source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 -pip install -r requirements.txt
+
+#Output on streamlit 
+![Image](https://github.com/user-attachments/assets/fd9bb460-2a0a-451f-83ec-da5919ce3d02)
+
+
